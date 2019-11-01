@@ -1,0 +1,9 @@
+2 dos
+4 cuatro
+3 tres
+5 cinco
+1 uno
+0 cero
+9 nueve
+7 siete
+8 ocho
