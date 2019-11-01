@@ -64,6 +64,7 @@ main(void) {
   waitpid(pidSort, &status, 0);
   testStatus(status);
   waitpid(pidEgrep, &status, 0);
+  testStatus(status);
   
   return EXIT_SUCCESS;
 }
